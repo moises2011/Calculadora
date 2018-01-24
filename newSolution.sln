@@ -9,8 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculadoraTest", "Calculad
 		{774F8968-A82E-47AB-AC96-F2385B7FC675} = {774F8968-A82E-47AB-AC96-F2385B7FC675}
 	EndProjectSection
 EndProject
-Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{8243AE4A-5866-4AD0-9D58-664F19411A85}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,18 +43,6 @@ Global
 		{CCDB43E0-2B2F-44C0-B08D-65E8F2F7891B}.Release|x64.Build.0 = Release|Any CPU
 		{CCDB43E0-2B2F-44C0-B08D-65E8F2F7891B}.Release|x86.ActiveCfg = Release|Any CPU
 		{CCDB43E0-2B2F-44C0-B08D-65E8F2F7891B}.Release|x86.Build.0 = Release|Any CPU
-		{8243AE4A-5866-4AD0-9D58-664F19411A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8243AE4A-5866-4AD0-9D58-664F19411A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8243AE4A-5866-4AD0-9D58-664F19411A85}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{8243AE4A-5866-4AD0-9D58-664F19411A85}.Debug|x64.Build.0 = Debug|Any CPU
-		{8243AE4A-5866-4AD0-9D58-664F19411A85}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{8243AE4A-5866-4AD0-9D58-664F19411A85}.Debug|x86.Build.0 = Debug|Any CPU
-		{8243AE4A-5866-4AD0-9D58-664F19411A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8243AE4A-5866-4AD0-9D58-664F19411A85}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8243AE4A-5866-4AD0-9D58-664F19411A85}.Release|x64.ActiveCfg = Release|Any CPU
-		{8243AE4A-5866-4AD0-9D58-664F19411A85}.Release|x64.Build.0 = Release|Any CPU
-		{8243AE4A-5866-4AD0-9D58-664F19411A85}.Release|x86.ActiveCfg = Release|Any CPU
-		{8243AE4A-5866-4AD0-9D58-664F19411A85}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
