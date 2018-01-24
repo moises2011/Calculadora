@@ -1,0 +1,11 @@
+C:\Users\moises.correa\Desktop\newSolution\Calculadora\bin\Debug\netcoreapp2.0\Calculadora.deps.json
+C:\Users\moises.correa\Desktop\newSolution\Calculadora\bin\Debug\netcoreapp2.0\Calculadora.runtimeconfig.json
+C:\Users\moises.correa\Desktop\newSolution\Calculadora\bin\Debug\netcoreapp2.0\Calculadora.runtimeconfig.dev.json
+C:\Users\moises.correa\Desktop\newSolution\Calculadora\bin\Debug\netcoreapp2.0\Calculadora.dll
+C:\Users\moises.correa\Desktop\newSolution\Calculadora\bin\Debug\netcoreapp2.0\Calculadora.pdb
+C:\Users\moises.correa\Desktop\newSolution\Calculadora\obj\Debug\netcoreapp2.0\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\moises.correa\Desktop\newSolution\Calculadora\obj\Debug\netcoreapp2.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\moises.correa\Desktop\newSolution\Calculadora\obj\Debug\netcoreapp2.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\moises.correa\Desktop\newSolution\Calculadora\obj\Debug\netcoreapp2.0\Calculadora.AssemblyInfo.cs
+C:\Users\moises.correa\Desktop\newSolution\Calculadora\obj\Debug\netcoreapp2.0\Calculadora.dll
+C:\Users\moises.correa\Desktop\newSolution\Calculadora\obj\Debug\netcoreapp2.0\Calculadora.pdb

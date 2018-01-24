@@ -1,0 +1,16 @@
+C:\Users\moises.correa\Desktop\newSolution\CalculadoraTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\moises.correa\Desktop\newSolution\CalculadoraTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\moises.correa\Desktop\newSolution\CalculadoraTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\moises.correa\Desktop\newSolution\CalculadoraTest\bin\Debug\netcoreapp2.0\CalculadoraTest.deps.json
+C:\Users\moises.correa\Desktop\newSolution\CalculadoraTest\bin\Debug\netcoreapp2.0\CalculadoraTest.runtimeconfig.json
+C:\Users\moises.correa\Desktop\newSolution\CalculadoraTest\bin\Debug\netcoreapp2.0\CalculadoraTest.runtimeconfig.dev.json
+C:\Users\moises.correa\Desktop\newSolution\CalculadoraTest\bin\Debug\netcoreapp2.0\CalculadoraTest.dll
+C:\Users\moises.correa\Desktop\newSolution\CalculadoraTest\bin\Debug\netcoreapp2.0\CalculadoraTest.pdb
+C:\Users\moises.correa\Desktop\newSolution\CalculadoraTest\obj\Debug\netcoreapp2.0\CalculadoraTest.csprojResolveAssemblyReference.cache
+C:\Users\moises.correa\Desktop\newSolution\CalculadoraTest\obj\Debug\netcoreapp2.0\CalculadoraTest.csproj.CoreCompileInputs.cache
+C:\Users\moises.correa\Desktop\newSolution\CalculadoraTest\obj\Debug\netcoreapp2.0\CalculadoraTest.AssemblyInfoInputs.cache
+C:\Users\moises.correa\Desktop\newSolution\CalculadoraTest\obj\Debug\netcoreapp2.0\CalculadoraTest.AssemblyInfo.cs
+C:\Users\moises.correa\Desktop\newSolution\CalculadoraTest\obj\Debug\netcoreapp2.0\CalculadoraTest.dll
+C:\Users\moises.correa\Desktop\newSolution\CalculadoraTest\obj\Debug\netcoreapp2.0\CalculadoraTest.pdb
+C:\Users\moises.correa\Desktop\newSolution\CalculadoraTest\bin\Debug\netcoreapp2.0\Calculadora.dll
+C:\Users\moises.correa\Desktop\newSolution\CalculadoraTest\bin\Debug\netcoreapp2.0\Calculadora.pdb

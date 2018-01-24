@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  calculadora:
+    image: calculadora
+    build:
+      context: .
+      dockerfile: Calculadora\Dockerfile
