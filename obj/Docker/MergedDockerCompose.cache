@@ -1,0 +1,11 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  calculadora:
+    build:
+      context: C:\Users\moises.correa\Desktop\newSolution
+      dockerfile: Calculadora\Dockerfile
+    image: calculadora
+version: '3.0'
